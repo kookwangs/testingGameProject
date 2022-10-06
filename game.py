@@ -144,7 +144,6 @@ while True:
                 scoreValue+=catBeat(18,51.50)
         
         
-        
    
                         
         screen.blit(bg,(0,0))
